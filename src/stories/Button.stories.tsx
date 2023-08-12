@@ -18,6 +18,7 @@ Primary.args = {
     }
 };
 
+//Adding a comment
 export const Success: StoryFn<ButtonProps> = (args) => <Button {...args}>Success Button</Button>;
 Success.args = {
     variant: 'success',
@@ -47,7 +48,7 @@ Small.args = {
     size: 'small',
     style: {
         fontSize: '12px',
-        padding: '10px 16px',
+        padding: '10px 16px'
         // borderRadius: '10',
     }
 };
