@@ -1,6 +1,6 @@
 {
   "name": "polyglot-component-library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
@@ -637,11 +637,9 @@
     "yocto-queue": "^0.1.0"
   },
   "keywords": [],
-   "description":"Library for Polyglot",
-
-   "repository": {
-"type": "git",
-"url": "git +https://github.com/SreelathaNadimpally/Polyglot-Component-Library.git"
-   }
-
+  "description": "Library for Polyglot",
+  "repository": {
+    "type": "git",
+    "url": "git +https://github.com/SreelathaNadimpally/Polyglot-Component-Library.git"
+  }
 }
