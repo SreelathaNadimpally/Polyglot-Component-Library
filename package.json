@@ -637,5 +637,11 @@
     "yocto-queue": "^0.1.0"
   },
   "keywords": [],
-  "description": ""
+   "description":"Library for Polyglot",
+
+   "repository": {
+"type": "git",
+"url": "git +https://github.com/SreelathaNadimpally/Polyglot-Component-Library.git"
+   }
+
 }
